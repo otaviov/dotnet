@@ -42,13 +42,15 @@ Primeiros passos com .NET + C#
 
 ## Hello World 
 
+```
 using System;
 
 class Hello <br />
 { <br />
->>>>static void Main()<br />
->>>>{<br />
->>>>>>>>Console.WriteLine("Hello, World");<br />
->>>>}<br />
+    static void Main()<br />
+    {<br />
+        Console.WriteLine("Hello, World");<br />
+    }<br />
 }<br />
+```
 
