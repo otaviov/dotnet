@@ -43,6 +43,8 @@ Primeiros passos com .NET + C#
 
 * O C# tem suas raízes na família de linguagens C e os programadores em C, C++, Java e JavaScript a reconhecerão imediatamente.
 
+* Atualmente o compilador do C# é o [.NET Compiler Platform](https://docs.microsoft.com/pt-br/dotnet/csharp/roslyn-sdk/)
+
 * Conheça o C#: https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/tutorials/
 
 
