@@ -46,9 +46,9 @@ using System;
 
 class Hello <br />
 { <br />
-    static void Main()<br />
-    {<br />
-        Console.WriteLine("Hello, World");<br />
-    }<br />
+___static void Main()<br />
+____{<br />
+________Console.WriteLine("Hello, World");<br />
+____}<br />
 }<br />
 
