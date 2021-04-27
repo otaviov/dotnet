@@ -44,11 +44,11 @@ Primeiros passos com .NET + C#
 
 using System;
 
-class Hello<br />
-{ 
-    static void Main()
-    {
-        Console.WriteLine("Hello, World");
-    }
-}
+class Hello <br />
+{ <br />
+    static void Main()<br />
+    {<br />
+        Console.WriteLine("Hello, World");<br />
+    }<br />
+}<br />
 
