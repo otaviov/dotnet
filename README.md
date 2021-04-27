@@ -33,3 +33,22 @@ Primeiros passos com .NET + C#
 
 * Para mais informações: https://docs.microsoft.com/pt-br/dotnet/framework/get-started/
 * baixar o dotNet: https://dotnet.microsoft.com/download
+
+# O que é C#?
+
+* O C# (pronuncia-se "See Sharp") é uma linguagem de programação moderna, orientada a objeto e de tipo seguro. O C# permite que os desenvolvedores criem muitos tipos de aplicativos seguros e robustos que são executados no ecossistema do .NET. O C# tem suas raízes na família de linguagens C e os programadores em C, C++, Java e JavaScript a reconhecerão imediatamente.
+
+* Conheça o C#: https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/tutorials/
+
+## Hello World 
+
+using System;
+
+class Hello
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello, World");
+    }
+}
+
