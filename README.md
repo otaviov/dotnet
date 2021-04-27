@@ -44,8 +44,8 @@ Primeiros passos com .NET + C#
 
 using System;
 
-class Hello /n
-{ /n
+class Hello<br />
+{ 
     static void Main()
     {
         Console.WriteLine("Hello, World");
