@@ -1,0 +1,16 @@
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.exe
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.deps.json
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.runtimeconfig.json
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.dll
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\01-EstruturaDoPrograma\bin\Debug\net5.0\ref\01-EstruturaDoPrograma.dll
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.pdb
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.dll
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\01-EstruturaDoPrograma\obj\Debug\net5.0\ref\01-EstruturaDoPrograma.dll
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.pdb
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.genruntimeconfig.cache
