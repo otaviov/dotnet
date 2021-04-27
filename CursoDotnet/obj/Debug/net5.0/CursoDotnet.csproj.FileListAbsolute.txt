@@ -1,0 +1,16 @@
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\CursoDotnet\bin\Debug\net5.0\CursoDotnet.exe
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\CursoDotnet\bin\Debug\net5.0\CursoDotnet.deps.json
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\CursoDotnet\bin\Debug\net5.0\CursoDotnet.runtimeconfig.json
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\CursoDotnet\bin\Debug\net5.0\CursoDotnet.runtimeconfig.dev.json
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\CursoDotnet\bin\Debug\net5.0\CursoDotnet.dll
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\CursoDotnet\bin\Debug\net5.0\ref\CursoDotnet.dll
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\CursoDotnet\bin\Debug\net5.0\CursoDotnet.pdb
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\CursoDotnet\obj\Debug\net5.0\CursoDotnet.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\CursoDotnet\obj\Debug\net5.0\CursoDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\CursoDotnet\obj\Debug\net5.0\CursoDotnet.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\CursoDotnet\obj\Debug\net5.0\CursoDotnet.AssemblyInfo.cs
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\CursoDotnet\obj\Debug\net5.0\CursoDotnet.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\CursoDotnet\obj\Debug\net5.0\CursoDotnet.dll
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\CursoDotnet\obj\Debug\net5.0\ref\CursoDotnet.dll
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\CursoDotnet\obj\Debug\net5.0\CursoDotnet.pdb
+C:\Users\amand\OneDrive\Documentos\Meus Projetos Git\dotnet\CursoDotnet\obj\Debug\net5.0\CursoDotnet.genruntimeconfig.cache
