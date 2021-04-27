@@ -45,12 +45,12 @@ Primeiros passos com .NET + C#
 ```
 using System;
 
-class Hello <br />
-{ <br />
-    static void Main()<br />
-    {<br />
-        Console.WriteLine("Hello, World");<br />
-    }<br />
-}<br />
+class Hello 
+{ 
+    static void Main()
+    {
+        Console.WriteLine("Hello, World");
+    }
+}
 ```
 
