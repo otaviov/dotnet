@@ -39,7 +39,7 @@ namespace Revisao
                         //TODO: Listar alunos
                         foreach(var listaalunos in alunos){
 
-                            if(string.IsNullOrEmpty(listaalunos.Nome)){
+                            if(!string.IsNullOrEmpty(listaalunos.Nome)){
                             Console.WriteLine($"ALUNO: {listaalunos.Nome} - NOTA: {listaalunos.Nota}");
                             }
                             
@@ -49,7 +49,34 @@ namespace Revisao
                         break;
 
                     case "3":
-                        //TODO: Calcular média geral
+                        
+                        decimal notaTotal = 0;
+                        var nrAlunos = 0;
+                        for(int i=0; i< alunos.Length; i++){
+
+                            if(!string.IsNullOrEmpty(alunos[i].Nome)){
+                                notaTotal = notaTotal + alunos[i].Nota;
+                                nrAlunos++;
+                            }
+                        }
+
+                        var mediaGeral = notaTotal / nrAlunos;
+                        ConceitoEnum conceitoGeral;
+                        if(mediaGeral < 2){
+                            conceitoGeral = ConceitoEnum.E;
+                        }else if(mediaGeral < 4){
+                            conceitoGeral = ConceitoEnum.D;
+                        }else if(mediaGeral <= 6){
+                            conceitoGeral = ConceitoEnum.C;
+                        }else if(mediaGeral < 8){
+                            conceitoGeral = ConceitoEnum.B;
+                        }else{
+                            conceitoGeral = ConceitoEnum.A;
+                        }
+
+                        Console.WriteLine($"MÉDIA GERAL: {mediaGeral} - CONCEITO: {conceitoGeral}");
+                        Console.WriteLine();
+
                         break;
 
                     default:
